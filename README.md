@@ -1,4 +1,4 @@
-## Hi, I'm Nikola!  
+## Hi, I'm Nikola! 👋🏼
   
 
 <a href="https://github.com/stnikola13" target="_blank">
