@@ -67,11 +67,11 @@ I have a passion for computer science and love what I'm studying. I'm also inter
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stnikola13&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=stnikola13&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" style="width: 95%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stnikola13&hide_border=true&layout=compact" align="left" style="width: 95%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stnikola13&hide_border=true&layout=compact&theme=tokyonight" align="left" style="width: 95%" />
 
 </td></tr></table>  
 
