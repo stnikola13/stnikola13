@@ -28,7 +28,7 @@ I have a passion for computer science and love what I'm studying. I'm also inter
 - 🔭 I’m currently working on multiple projects!  
   
 
-- 🌱 I’m learning JavaScript.  
+- 🌱 I’m learning cloud technologies at the moment. 
   
 
 - 🤍 I like programming simple games.  
