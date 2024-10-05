@@ -15,9 +15,9 @@
 
 
 ### Welcome to my GitHub!  
-I'm a fourth-year software engineering student at the School of Electrical Engineering at the University of Belgrade, Serbia.
+I'm a software engineering graduate and master's student at the School of Electrical Engineering at the University of Belgrade, Serbia.
 
-I have a passion for computer science and love what I'm studying. I'm also interested in artificial intelligence and bioinformatics!  
+I have a passion for computer science and I love what I'm studying. I'm also interested in artificial intelligence and bioinformatics!  
   
 
 <br/>  
