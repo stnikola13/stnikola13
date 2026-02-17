@@ -12,9 +12,9 @@
 
 
 ### Welcome to my GitHub!  
-I'm a software engineering graduate and master's student at the School of Electrical Engineering at the University of Belgrade, Serbia.
+I'm a software engineering graduate and PhD student at the School of Electrical Engineering at the University of Belgrade, Serbia.
 
-I have a passion for computer science and I love what I'm studying. I'm also interested in artificial intelligence and bioinformatics!  
+I have a passion for computer science and I love researching. I'm interested in artificial intelligence and bioinformatics!  
   
 
 <br/>  
@@ -25,7 +25,7 @@ I have a passion for computer science and I love what I'm studying. I'm also int
 - 🔭 I’m currently working on multiple projects!  
   
 
-- 🌱 I’m learning cloud technologies at the moment. 
+- 🌱 I’m learning about software application in biology and medicine. 
   
 
 - 🤍 I like programming simple games.  
